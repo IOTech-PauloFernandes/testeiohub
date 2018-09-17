@@ -4,7 +4,7 @@
     "name": "ioHub  A rede de serviços da IOTech",
     "scope": "/",
     "display": "standalone",
-    "start_url": "http://127.0.0.1:8887/teste.html",
+    "start_url": "https://pauloiotech.github.io/testeiohub/",
     "short_name": "ioHub",
     "theme_color": "transparent",
     "description": "",
